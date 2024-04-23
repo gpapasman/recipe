@@ -3,4 +3,5 @@
 * squeeze lime
 * add salt
 * and mix well
+* serve cold
 * enjoy!
