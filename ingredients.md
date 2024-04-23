@@ -3,4 +3,5 @@
 * 2 tsp salt
 * 1/2 onion
 
+* 1 tbsp coriander
 * new line from VSCODE
